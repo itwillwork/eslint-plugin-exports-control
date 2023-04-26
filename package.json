@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-exports-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itwillwork/eslint-plugin-exports-control.git"
+  },
+  "homepage": "https://github.com/itwillwork/eslint-plugin-exports-control",
+  "keywords": [
+    "exports",
+    "control",
+    "exports-control",
+    "plugin",
+    "eslint",
+    "lint"
+  ],
+  "author": "",
+  "license": "ISC"
+}
